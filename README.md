@@ -8,9 +8,9 @@ https://jmonkeyengine.org/
 Se recomiendo usar como ide JMonkeyEngine SDK
 https://wiki.jmonkeyengine.org/sdk.html
 
-Autor: fissban
-Fecha: 20/01/2020
-Email: marco.faccio@gmail.com
-Skype: fissban
+- Autor: fissban
+- Fecha: 20/01/2020
+- Email: marco.faccio@gmail.com
+- Skype: fissban
 
 Juego sencillo en el que se crea un player que a lo largo de un camino debe ir esquivando los cubos.
